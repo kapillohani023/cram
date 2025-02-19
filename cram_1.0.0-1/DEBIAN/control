@@ -1,8 +1,0 @@
-Package: cram
-Version: 1.0.0-1
-Architecture: amd64
-Maintainer: Kapil Lohani <kapillohani@gmail.com>
-Depends: libc6 (>= 2.28)
-Section: utils
-Priority: optional
-Description: Cram - Image compression utility
