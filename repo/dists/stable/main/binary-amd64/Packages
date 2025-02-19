@@ -1,0 +1,14 @@
+Package: cram
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: Kapil Lohani <kapillohani@gmail.com>
+Depends: libc6 (>= 2.28)
+Priority: optional
+Section: utils
+Filename: pool/main/c/cram/cram_1.0.0-1_amd64.deb
+Size: 139404
+SHA256: 5a9746ee9fde613834fbbc7d1f58877bcecec63fd50994c449a6947820067df7
+SHA1: ab4358f4b4a29db341158c7a3fc7297d64a6ee67
+MD5sum: e1f4b3db014a4a853f5a86f971d1fa5b
+Description: Cram - Image compression utility
+

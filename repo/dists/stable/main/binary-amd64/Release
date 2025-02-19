@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Your Name
+Label: Cram APT Repository
+Architecture: amd64
+Description: APT repository for Cram

@@ -1,0 +1,20 @@
+Origin: Your Name
+Label: Cram APT Repository
+Suite: stable
+Codename: stable
+Date: Wed, 19 Feb 2025 19:49:41 UTC
+Architectures: amd64
+Components: main
+Description: APT repository for Cram
+MD5Sum:
+ a6dad769abb09019817e5e9af6430d22 430 main/binary-amd64/Packages
+ eb2f55024216d7b6b3cad97b17244a7f 334 main/binary-amd64/Packages.gz
+ 34ecf2da0e40cf7be1d92c9d863d0f09 134 main/binary-amd64/Release
+SHA1:
+ 2ce6ac9887497c11efcdf09a26ef7cc291ed6210 430 main/binary-amd64/Packages
+ acf5e1bca7744a82c1fe28ed82fa70cedcecbec4 334 main/binary-amd64/Packages.gz
+ e5a34a7bccea819469038663bc2fd0ccffe6f9aa 134 main/binary-amd64/Release
+SHA256:
+ 6736c121fd161b0fd121629ae959cdc16bfb37954ddb48d52421e1b0526fa56f 430 main/binary-amd64/Packages
+ f0dbd1656bfa83fb3b4545fb7c78b39da7330c4855d930db0645555bf7d5fa9b 334 main/binary-amd64/Packages.gz
+ 0391217ea2db9147bd685f88f1687ee27486a83006c5d7b139814b14ad76d76a 134 main/binary-amd64/Release
