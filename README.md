@@ -1,6 +1,6 @@
 # cram
 
-## Installation
+## Installation (linux)
 
 ```bash
 echo "deb [trusted=yes] https://kapillohani023.github.io/cram stable main" | sudo tee /etc/apt/sources.list.d/cram.list
